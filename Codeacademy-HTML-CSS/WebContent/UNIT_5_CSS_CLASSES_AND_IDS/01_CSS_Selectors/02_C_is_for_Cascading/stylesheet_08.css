@@ -1,0 +1,15 @@
+/*Add your CSS below!*/
+ul li p {
+	color: #000000;
+	text-decoration: underline;
+}
+
+div p {
+	font-weight: bold;
+	color: #7AC5CD;
+}
+
+p {
+	font-family: Garamond;
+	font-weight: bold;
+}
